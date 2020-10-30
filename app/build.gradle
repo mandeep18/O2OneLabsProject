@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "app.android.o2onelabsproject"
+        applicationId "app.android.mandex"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
