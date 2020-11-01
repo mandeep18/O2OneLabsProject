@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "app.android.o2onelabsproject",
+  "applicationId": "app.android.mandex",
   "variantName": "processDebugResources",
   "elements": [
     {
